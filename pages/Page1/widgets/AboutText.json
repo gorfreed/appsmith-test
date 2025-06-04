@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 35,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "NORMAL",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "about_section",
+  "leftColumn": 8,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 45,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 25,
+  "needsErrorInfo": false,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.984375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 56,
+  "shouldTruncate": false,
+  "text": "## About Me\n\nI'm a passionate developer with experience in creating beautiful, functional applications. I love solving complex problems and bringing ideas to life through code.\n\n## Skills\n\n• Frontend: React, JavaScript, HTML/CSS\n• Backend: Node.js, Python, APIs\n• Design: Figma, Adobe Creative Suite\n• Tools: Git, Docker, AWS\n\n## Contact\n\n📧 your.email@example.com\n🌐 linkedin.com/in/yourprofile\n💼 github.com/yourusername",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 25,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "about_widget_001",
+  "widgetName": "AboutText"
+}
